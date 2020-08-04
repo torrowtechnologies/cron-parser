@@ -1,3 +1,6 @@
+
+:warning: **Why do I need this fork?**: this fork removes fix, that was made made in this [сommit](https://github.com/harrisiirak/cron-parser/commit/82ff0d1b654ac809b4763271542ddaff9322945d), because we dont need Vixie Cron [restriction](https://stackoverflow.com/questions/34357126/why-crontab-uses-or-when-both-day-of-month-and-day-of-week-specified). TODO: fix the tests or add a parameter to parser to disable restriction
+
 cron-parser
 ================
 
